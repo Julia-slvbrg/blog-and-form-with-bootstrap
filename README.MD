@@ -1,4 +1,4 @@
-# Online Contact List
+# Blog and form with bootstrap
 ![Layout](./images/layout.png)
 
 This application explores the use of Bootstrap to implement and style a simple design for a blog like site with a form. 
